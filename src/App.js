@@ -75,7 +75,8 @@ function App() {
               <button className="button button5" type="button">Facebook</button>
               <br></br>
           <footer className="heading">
-              Thank You
+              Thank You <br />
+              developed by Lokanath Panda
           </footer>
               <br></br>
           <br></br>
