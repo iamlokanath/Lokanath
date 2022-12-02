@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <div className="nav_left">
-          <button type="button">Visit My Portfolio</button>
+          <button type="button"><a href="https://iamlokanath.github.io/myportfolio/" target="_blank" rel="noreferrer">Visit My Portfolio</a></button>
       </div>
       <div className="cube-wrap">
           <div className="cube">
@@ -48,28 +48,28 @@ function App() {
               Social Handles
           </div>
           <br></br>
-          <button className="button button1" type="button">Follow on Twitter</button> 
+          <button className="button button1" type="button"><a href="https://twitter.com/Lokanat48464605" target="_blank" rel="noreferrer">Follow on Twitter</a> </button> 
               <br></br>
-          <button className="button button2" type="button">Friends on Facebook</button> 
+          <button className="button button2" type="button"><a href="https://www.facebook.com/profile.php?id=100071480734923" target="_blank" rel="noreferrer">Friends on Facebook</a></button> 
               <br></br>
-          <button className="button button3" type="button">Connect In Linkedin</button> 
+          <button className="button button3" type="button"><a href="https://www.linkedin.com/in/lokanath-panda-642193238/" target="_blank" rel="noreferrer">Connect In Linkedin</a> </button> 
               <br></br>
-          <button className="button button4" type="button">Follow on Instagram</button> 
+          <button className="button button4" type="button"><a href="https://www.instagram.com/lokanio.h/" target="_blank" rel="noreferrer">Follow on Instagram</a></button> 
               <br></br>
-          <button className="button button5" type="button">Follow on Github</button>
+          <button className="button button5" type="button"><a href="https://github.com/iamlokanath" target="_blank" rel="noreferrer">Follow on Github</a></button>
           <br></br>
               
           <div className="heading">
               Projects
           </div>
               <br></br>
-              <button className="button button1" type="button">Pacific Note- A simple Note taking app</button> 
+              <button className="button button1" type="button"><a href="https://pacific-note.netlify.app/" target="_blank" rel="noreferrer">Pacific Note- A simple Note taking app</a></button> 
               <br></br>
-              <button className="button button2" type="button">Pacific Gym- A gym website</button> 
+              <button className="button button2" type="button"><a href="https://pacific-note.netlify.app/" target="_blank" rel="noreferrer">Pacific Gym- A gym website</a></button> 
               <br></br>
-              <button className="button button3" type="button">Microsoft Clone</button> 
+              <button className="button button3" type="button"><a href="https://iamlokanath.github.io/Pacific_Calculator/" target="_blank" rel="noreferrer">Pacific Calculater</a></button> 
               <br></br>
-              <button className="button button4" type="button">Facebook</button> 
+              <button className="button button4" type="button">Microsoft Clone</button> 
               <br></br>
               <button className="button button5" type="button">Facebook</button>
               <br></br>
