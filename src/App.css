@@ -141,9 +141,15 @@ button:hover{
   font-family: 'Baloo Bhai 2', cursive;
   font-size: 17px;
 }
-.container p span{
+.container p .span{
   font-family: 'Poppins', sans-serif;
-  font-size: 17px;
+  font-size: 22px;
+  font-weight: bold;
+}
+.container p .span1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
 }
 .heading {
   font-size: 20px;

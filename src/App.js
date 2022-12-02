@@ -35,7 +35,8 @@ function App() {
       <div className="container">
           <img className="profile" src={profile} alt="Profile"></img>
           <p>
-              <span>Lokanath Panda</span>
+              <span className='span'>Lokanath Panda</span><br></br>
+              <span className='span1'> Student Of Computer Science And Engineering|| Web Developer || UI/UX Designer</span>
               <br></br>
               I am just a learner now, determined to achieve great goal with my passion.
               <br></br>
