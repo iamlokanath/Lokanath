@@ -64,9 +64,9 @@ function App() {
               Projects
           </div>
               <br></br>
-              <button className="button button1" type="button"><a href="https://pacific-note.netlify.app/" target="_blank" rel="noreferrer">Pacific Note- A simple Note taking app</a></button> 
+              <button className="button button1" type="button"><a href="https://pacific-note.netlify.app/" target="_blank" rel="noreferrer">Pacific Note</a></button> 
               <br></br>
-              <button className="button button2" type="button"><a href="https://pacific-note.netlify.app/" target="_blank" rel="noreferrer">Pacific Gym- A gym website</a></button> 
+              <button className="button button2" type="button"><a href="https://iamlokanath.github.io/weather/" target="_blank" rel="noreferrer">Pacific Weather</a></button> 
               <br></br>
               <button className="button button3" type="button"><a href="https://iamlokanath.github.io/Pacific_Calculator/" target="_blank" rel="noreferrer">Pacific Calculater</a></button> 
               <br></br>
@@ -76,7 +76,7 @@ function App() {
               <br></br>
           <footer className="heading">
               Thank You <br />
-              developed by Lokanath Panda
+              Website is designed & developed by Lokanath Panda
           </footer>
               <br></br>
           <br></br>
