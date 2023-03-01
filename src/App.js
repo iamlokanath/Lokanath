@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <div className="nav_left">
-          <button type="button"><a href="https://lokanath-portfolio.netlify.app/" target="_blank" rel="noreferrer">Visit My Portfolio</a></button>
+          <button type="button"><a href="https://lokanath-portfolio.netlify.app/"  rel="noreferrer">Visit My Portfolio</a></button>
       </div>
       <div className="cube-wrap">
           <div className="cube">
