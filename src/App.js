@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react';
 import './App.css';
-import profile from "./IMG_20221104_165345.jpg"
+import profile from "./NCC passport photo.jpg"
 
 
 
@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <div className="nav_left">
-          <button type="button"><a href="https://iamlokanath.github.io/myportfolio/" target="_blank" rel="noreferrer">Visit My Portfolio</a></button>
+          <button type="button"><a href="https://lokanath-portfolio.netlify.app/" target="_blank" rel="noreferrer">Visit My Portfolio</a></button>
       </div>
       <div className="cube-wrap">
           <div className="cube">
@@ -36,13 +36,13 @@ function App() {
           <img className="profile" src={profile} alt="Profile"></img>
           <p>
               <span className='span'>Lokanath Panda</span><br></br>
-              <span className='span1'> Student Of Computer Science And Engineering|| Web Developer || UI/UX Designer</span>
+              <span className='span1'>Web Developer || UI/UX Designer || Data Analyst</span>
               <br></br>
               I am just a learner now, determined to achieve great goal with my passion.
               <br></br>
               My main interest is in Web Development. I am always eager to learn something new in my life.
               <br></br>
-              "I love to code"
+              I love to code
               <br></br>
           </p>
           <div className="heading">
@@ -70,10 +70,9 @@ function App() {
               <br></br>
               <button className="button button3" type="button"><a href="https://iamlokanath.github.io/Pacific_Calculator/" target="_blank" rel="noreferrer">Pacific Calculater</a></button> 
               <br></br>
-              <button className="button button4" type="button">Microsoft Clone</button> 
+              <button className="button button3" type="button"><a href="https://jagannathpuri.netlify.app/" target="_blank" rel="noreferrer">Puri</a></button> 
               <br></br>
-              <button className="button button5" type="button">Facebook</button>
-              <br></br>
+              
           <footer className="heading">
               Thank You <br />
               Website is designed & developed by Lokanath Panda
