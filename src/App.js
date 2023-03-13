@@ -35,50 +35,52 @@ function App() {
       <div className="container">
           <img className="profile" src={profile} alt="Profile"></img>
           <p>
-              <span className='span'>Lokanath Panda</span><br></br>
+              <span className='span'>Lokanath Panda</span><br />
               <span className='span1'>Web Developer || UI/UX Designer || Data Analyst</span>
-              <br></br>
+              <br />
               I am just a learner now, determined to achieve great goal with my passion.
-              <br></br>
-              My main interest is in Web Development. I am always eager to learn something new in my life.
-              <br></br>
+              <br />
+               I am always eager to learn something new in my life. Cracking codes and writing lines, that's what I do best. 
+              <br />
+              I am motivated computer science student who is passionate about using technology to solve complex problems.
+              <br />
               I love to code
-              <br></br>
+              <br />
           </p>
           <div className="heading">
               Social Handles
           </div>
-          <br></br>
+          <br />
           <button className="button button1" type="button"><a href="https://twitter.com/Lokanat48464605" target="_blank" rel="noreferrer">Follow on Twitter</a> </button> 
-              <br></br>
+              <br />
           <button className="button button2" type="button"><a href="https://www.facebook.com/profile.php?id=100071480734923" target="_blank" rel="noreferrer">Friends on Facebook</a></button> 
-              <br></br>
+              <br />
           <button className="button button3" type="button"><a href="https://www.linkedin.com/in/lokanath-panda-642193238/" target="_blank" rel="noreferrer">Connect In Linkedin</a> </button> 
-              <br></br>
+              <br />
           <button className="button button4" type="button"><a href="https://www.instagram.com/lokanio.h/" target="_blank" rel="noreferrer">Follow on Instagram</a></button> 
-              <br></br>
+              <br />
           <button className="button button5" type="button"><a href="https://github.com/iamlokanath" target="_blank" rel="noreferrer">Follow on Github</a></button>
-          <br></br>
+          <br />
               
           <div className="heading">
               Projects
           </div>
-              <br></br>
+              <br />
               <button className="button button1" type="button"><a href="https://pacific-note.netlify.app/" target="_blank" rel="noreferrer">Pacific Note</a></button> 
-              <br></br>
+              <br />
               <button className="button button2" type="button"><a href="https://iamlokanath.github.io/weather/" target="_blank" rel="noreferrer">Pacific Weather</a></button> 
-              <br></br>
+              <br />
               <button className="button button3" type="button"><a href="https://iamlokanath.github.io/Pacific_Calculator/" target="_blank" rel="noreferrer">Pacific Calculater</a></button> 
-              <br></br>
+              <br />
               <button className="button button3" type="button"><a href="https://jagannathpuri.netlify.app/" target="_blank" rel="noreferrer">Puri</a></button> 
-              <br></br>
+              <br />
               
           <footer className="heading">
               Thank You <br />
               Website is designed & developed by Lokanath Panda
           </footer>
-              <br></br>
-          <br></br>
+              <br />
+          <br />
       </div>
       </div>
   );
