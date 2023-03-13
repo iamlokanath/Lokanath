@@ -42,7 +42,7 @@ function App() {
               <br />
                I am always eager to learn something new in my life. Cracking codes and writing lines, that's what I do best. 
               <br />
-              I am motivated computer science student who is passionate about using technology to solve complex problems.
+              I am a motivated computer science student who is passionate about using technology to solve complex problems.
               <br />
               I love to code
               <br />
