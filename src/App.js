@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react';
 import './App.css';
-import profile from "./NCC passport photo.jpg"
+import profile from "./image/IMG_20230514_155501.jpg"
 
 
 
